@@ -5,4 +5,4 @@ def countdown(n):
   n -= 1
 for number in countdown(5):
  print(number) # Outputs: 5, 4, 3, 2, 1
-print("Program by jashn sharma - 0221BCA048")
+print("This code is written by DIYA ARORA ERP-0221BCA059")
