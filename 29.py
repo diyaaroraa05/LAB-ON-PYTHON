@@ -24,4 +24,4 @@ print(f"Discount Percentage: {discount_percentage}%")
 print(f"Discount Amount: {discount_amount}")
 print(f"Final Bill Amount: {final_bill}")
 
-print("This code is written by AARYAN ERP- 0221BCA163")
+print("This code is written by DIYA ARORA ERP-0221BCA059")
