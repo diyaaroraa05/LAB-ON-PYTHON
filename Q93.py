@@ -15,4 +15,4 @@ cat = Cat()
 print(dog.speak())
 print(cat.speak())
 
-print("Program by jashn sharma - 0221BCA048")
+print("This code is written by DIYA ARORA ERP-0221BCA059")
