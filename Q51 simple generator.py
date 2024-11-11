@@ -6,4 +6,4 @@ def count_up_to(max):
   count += 1
 for num in count_up_to(5):
  print(num) # Outputs: 1, 2, 3, 4, 5
-print("Program by jashn sharma - 0221BCA048")
+print("This code is written by DIYA ARORA ERP-0221BCA059")
