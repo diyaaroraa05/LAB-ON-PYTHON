@@ -20,4 +20,4 @@ if is_armstrong(number):
 else:
     print(f"{number} is not an Armstrong number.")
 
-    print("This code is written by AARYAN ERP- 0221BCA163")
+print("This code is written by DIYA ARORA ERP-0221BCA059")
