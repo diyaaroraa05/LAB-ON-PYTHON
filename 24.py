@@ -16,4 +16,4 @@ if is_a_perfect_number(number):
     print(f"{number} is a perfect number.")
 else: 
     print(f"{number} is not a perfect number.")
-    print("This code is written by AARYAN ERP- 0221BCA163")
+print("This code is written by DIYA ARORA ERP-0221BCA059")
