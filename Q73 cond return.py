@@ -7,4 +7,4 @@ def check_even_odd(number):
     return "Odd"
 result = check_even_odd(4)
 print(result) # Output: Even
-print("Program by jashn sharma - 0221BCA048")
+print("This code is written by DIYA ARORA ERP-0221BCA059")
