@@ -14,4 +14,4 @@ print(f"{a} >= {b} : {a >= b}")
 #Less than or equal to
 print(f"{a} <= {b} : {a <= b}")
 
-print("This code is written by AARYAN ERP- 0221BCA163")
+print("This code is written by DIYA ARORA ERP-0221BCA059")
