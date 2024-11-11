@@ -10,4 +10,4 @@ def reverse_number(number):
 number = int(input("Enter any number: "))
 print("Reversed Number:", reverse_number(number))
 
-print("This code is written by AARYAN ERP- 0221BCA163")
+print("This code is written by DIYA ARORA ERP-0221BCA059")
