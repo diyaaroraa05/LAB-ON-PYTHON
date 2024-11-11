@@ -36,4 +36,4 @@ print_info(name="Alice", age=30, city="New York")
 # age: 30
 # city: New York
 
-print("Program by jashn sharma - 0221BCA048")
+print("This code is written by DIYA ARORA ERP-0221BCA059")
