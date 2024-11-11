@@ -7,4 +7,4 @@ if positions:
 
 else:
     print(f"The character'{char_to_find}' is not found in the string ")
-print("This code is written by AARYAN ERP- 0221BCA163")
+print("This code is written by DIYA ARORA ERP-0221BCA059")
