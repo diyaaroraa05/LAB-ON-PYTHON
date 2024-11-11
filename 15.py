@@ -21,4 +21,4 @@ print(f"a //= 15 -> {a}")
 a **= 15
 print(f"a **= 15 -> {a}")
 
-print("This code is written by AARYAN ERP- 0221BCA163")
+print("This code is written by DIYA ARORA ERP-0221BCA059")
