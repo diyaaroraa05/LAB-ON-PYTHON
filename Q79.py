@@ -11,4 +11,4 @@ def say_hello():
 
 say_hello()
 
-print("Program by jashn sharma - 0221BCA048")
+print("This code is written by DIYA ARORA ERP-0221BCA059")
