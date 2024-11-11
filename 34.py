@@ -20,4 +20,4 @@ end_range = int(input("Enter the end of the range: "))
 armstrong_numbers = find_armstrong_numbers(start_range, end_range)
 print(f"Armstrong numbers between {start_range} and {end_range} are: {armstrong_numbers}")
 
-print("This code is written by AARYAN ERP- 0221BCA163")
+print("This code is written by DIYA ARORA ERP-0221BCA059")
