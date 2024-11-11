@@ -19,4 +19,4 @@ print(f"Array Sum: {sum_arrays}")
 print(f"Mean of array: {mean_value}")
 print(f"Standard deviation of array: {std_dev}")
 
-print("This code is written by AARYAN ERP- 0221BCA163")
+print("This code is written by DIYA ARORA ERP-0221BCA059")
