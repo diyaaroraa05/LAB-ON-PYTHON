@@ -5,4 +5,4 @@ def get_user_info():
 user_name, user_age = get_user_info()
 print(user_name)
 print(user_age)
-print("Program by jashn sharma - 0221BCA048")
+print("This code is written by DIYA ARORA ERP-0221BCA059")
