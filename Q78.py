@@ -9,4 +9,4 @@ def decorator_function(original_function):
 def display():
  print("Display function executed")
 display()
-print("Program by jashn sharma - 0221BCA048")
+print("This code is written by DIYA ARORA ERP-0221BCA059")
