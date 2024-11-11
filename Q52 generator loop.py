@@ -6,4 +6,4 @@ def fibonacci(n):
   a, b = b, a + b
 for num in fibonacci(10):
  print(num) # Outputs: 0, 1, 1, 2, 3, 5, 8
-print("Program by jashn sharma - 0221BCA048")
+print("This code is written by DIYA ARORA ERP-0221BCA059")
