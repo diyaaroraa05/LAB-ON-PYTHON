@@ -12,4 +12,4 @@ for i in range(5):
 #call the function to see the output
 my_function()
 my_other_function()
-print("This code is written by AARYAN ERP- 0221BCA163")
+print("This code is written by DIYA ARORA ERP-0221BCA059")
