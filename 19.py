@@ -16,4 +16,4 @@ print(a is c)  # Output: False
 # Printing the content of the lists
 print("a:", a, "b:", b, "c:", c)
 
-print("This code is written by AARYAN ERP- 0221BCA163")
+print("This code is written by DIYA ARORA ERP-0221BCA059")
