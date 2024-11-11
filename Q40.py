@@ -8,4 +8,4 @@ def main():
 if __name__ == "__main__":
     main()
 
-print("Program by jashn sharma - 0221BCA048")
+print("This code is written by DIYA ARORA ERP-0221BCA059")
