@@ -4,4 +4,4 @@ my_list.insert(2, 2.5)
 my_list.remove(4)
 print(my_list) # Outputs: [1, 2, 2.5, 3, 5, 6]
 
-print("Program by jashn sharma - 0221BCA048")
+print("This code is written by DIYA ARORA ERP-0221BCA059")
