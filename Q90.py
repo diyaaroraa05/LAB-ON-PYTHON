@@ -19,4 +19,4 @@ class Car(Vehicle):
 my_car = Car("Toyota", "Corolla", 2020, "Petrol")
 my_car.display_info()
 
-print("Program by jashn sharma - 0221BCA048")
+print("This code is written by DIYA ARORA ERP-0221BCA059")
