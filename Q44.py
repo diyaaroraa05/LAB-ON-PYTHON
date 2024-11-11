@@ -51,4 +51,4 @@ print(f"Prime number just smaller than {number}: {prime}")
 print(f"Perfect number just smaller than {number}: {perfect}")
 print(f"Armstrong number just smaller than {number}: {armstrong}")
 
-print("Program by jashn sharma - 0221BCA048")
+print("This code is written by DIYA ARORA ERP-0221BCA059")
