@@ -14,4 +14,4 @@ while count<5:
 # for loop
 for i in range(5):
     print(i);
-print("This code is written by AARYAN ERP- 0221BCA163")
+print("This code is written by DIYA ARORA ERP-0221BCA059")
