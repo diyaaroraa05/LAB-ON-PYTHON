@@ -16,4 +16,4 @@ def delete_user(user_id):
     print(f"User {user_id} deleted")
 
 delete_user(123)
-print("Program by jashn sharma - 0221BCA048")
+print("This code is written by DIYA ARORA ERP-0221BCA059")
