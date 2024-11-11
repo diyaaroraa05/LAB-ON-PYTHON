@@ -21,4 +21,4 @@ end = int(input("Enter the end of the range: "))
 result = sum_of_cubes_of_primes(start, end)
 print(f"The sum of cubes of prime numbers in the range is: {result}")
 
-print("This code is written by AARYAN ERP- 0221BCA163")
+print("This code is written by DIYA ARORA ERP-0221BCA059")
