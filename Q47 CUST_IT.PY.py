@@ -17,6 +17,5 @@ rev = Reverse('giraffe')
 for char in rev:
     print(char)
  # Outputs: e, f, a, r, g
-print("Program by jashn sharma - 0221BCA048")
-
+print("This code is written by DIYA ARORA ERP-0221BCA059")
 
