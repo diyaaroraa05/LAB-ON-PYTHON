@@ -12,4 +12,4 @@ elif c>a and c>b:
     print(f"{c} is the biggest number")
 else:
     print("Rewrite the number")
-    print("This code is written by AARYAN ERP- 0221BCA163")
+print("This code is written by DIYA ARORA ERP-0221BCA059")
