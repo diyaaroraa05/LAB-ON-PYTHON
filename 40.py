@@ -23,4 +23,4 @@ print("Replaced Text:", replaced_text)
 print("Index of 'World':", index)
 print("Count of 'o':", count)
 
-print("This code is written by AARYAN ERP- 0221BCA163")
+print("This code is written by DIYA ARORA ERP-0221BCA059")
