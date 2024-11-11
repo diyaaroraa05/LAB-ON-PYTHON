@@ -2,4 +2,4 @@
 numbers = [1, 2, 3, 4, 5]
 even_numbers = [x for x in numbers if x % 2 == 0]
 print(even_numbers) # Outputs: [2, 4]
-print("Program by jashn sharma - 0221BCA048")
+print("This code is written by DIYA ARORA ERP-0221BCA059")
