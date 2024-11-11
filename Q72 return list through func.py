@@ -4,4 +4,4 @@ def get_squares(numbers):
 nums = [1, 2, 3, 4]
 squares_list = get_squares(nums)
 print(squares_list)
-print("Program by jashn sharma - 0221BCA048")
+print("This code is written by DIYA ARORA ERP-0221BCA059")
